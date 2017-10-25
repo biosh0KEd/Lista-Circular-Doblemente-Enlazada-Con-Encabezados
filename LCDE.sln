@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCDE", "LCDE\LCDE.vcxproj", "{F3ADDF18-50B1-4378-A661-E16942FCB483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Debug|x64.ActiveCfg = Debug|x64
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Debug|x64.Build.0 = Debug|x64
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Debug|x86.Build.0 = Debug|Win32
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Release|x64.ActiveCfg = Release|x64
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Release|x64.Build.0 = Release|x64
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Release|x86.ActiveCfg = Release|Win32
+		{F3ADDF18-50B1-4378-A661-E16942FCB483}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC782E9E-4043-4333-9FFD-71E496CF4813}
+	EndGlobalSection
+EndGlobal
